@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068390468200:jetbrains.mps.baseLanguage.structure.FieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070462154015:jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <root>
+    <file name="ConceptPresentationAspectImpl.java">
+      <unit at="11,0,54,0" name="CookBook.structure.ConceptPresentationAspectImpl" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <unit at="10,0,34,0" name="CookBook.structure.LanguageConceptSwitch" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <unit at="14,0,96,0" name="CookBook.structure.StructureAspectDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:ffc99632-bc0a-47d7-9dfa-a678412c0455(CookBook.structure)/3717195622457643946">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="3717195622457643946" at="12,0,13,0" concept="1" trace="props_CookBook" />
+      <node id="3717195622457643946" at="23,37,24,76" concept="3" />
+      <node id="3717195622457643946" at="24,76,25,35" concept="0" />
+      <node id="3717195622457643946" at="25,35,26,40" concept="0" />
+      <node id="3717195622457643946" at="27,9,28,30" concept="4" />
+      <node id="3717195622457643946" at="22,42,27,9" concept="2" />
+      <scope id="3717195622457643946" at="23,37,26,40">
+        <var name="cpb" id="3717195622457643946" />
+      </scope>
+      <scope id="3717195622457643946" at="22,42,28,30" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="3717195622457643946" at="12,0,13,0" concept="5" trace="CookBook" />
+      <node id="3717195622457643946" at="18,116,19,47" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="3717195622457643946" at="15,0,16,0" concept="1" trace="myConceptCookBook" />
+      <node id="3717195622457643946" at="42,42,43,33" concept="4" />
+      <node id="3717195622457643946" at="60,66,61,151" concept="3" />
+      <node id="3717195622457643946" at="61,151,62,33" concept="0" />
+      <node id="3717195622457643946" at="62,33,63,71" concept="0" />
+      <node id="3717195622457643946" at="63,71,64,95" concept="0" />
+      <node id="3717195622457643946" at="64,95,65,17" concept="0" />
+      <node id="3717195622457727699" at="65,17,66,202" concept="0" />
+      <node id="3717195622457846742" at="66,202,67,203" concept="0" />
+      <node id="3717195622457643946" at="67,203,68,22" concept="4" />
+      <node id="3717195622457643946" at="60,0,70,0" concept="6" trace="createDescriptorForCookBook#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="3717195622457643946" at="42,42,43,33" />
+      <scope id="3717195622457643946" at="60,66,68,22">
+        <var name="b" id="3717195622457643946" />
+      </scope>
+      <scope id="3717195622457643946" at="60,0,70,0" />
+    </file>
+  </root>
+  <root nodeRef="r:ffc99632-bc0a-47d7-9dfa-a678412c0455(CookBook.structure)/3717195622457727669">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="3717195622457727669" at="13,0,14,0" concept="1" trace="props_InputField" />
+      <node id="3717195622457727669" at="30,39,31,76" concept="3" />
+      <node id="3717195622457727669" at="31,76,32,35" concept="0" />
+      <node id="3717195622457727669" at="32,35,33,42" concept="0" />
+      <node id="3717195622457727669" at="34,9,35,32" concept="4" />
+      <node id="3717195622457727669" at="29,44,34,9" concept="2" />
+      <scope id="3717195622457727669" at="30,39,33,42">
+        <var name="cpb" id="3717195622457727669" />
+      </scope>
+      <scope id="3717195622457727669" at="29,44,35,32" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="3717195622457727669" at="13,0,14,0" concept="5" trace="InputField" />
+      <node id="3717195622457727669" at="19,47,20,49" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="3717195622457727669" at="16,0,17,0" concept="1" trace="myConceptInputField" />
+      <node id="3717195622457727669" at="44,44,45,35" concept="4" />
+      <node id="3717195622457727669" at="70,68,71,153" concept="3" />
+      <node id="3717195622457727669" at="71,153,72,34" concept="0" />
+      <node id="3717195622457727669" at="72,34,73,71" concept="0" />
+      <node id="3717195622457727669" at="73,71,74,95" concept="0" />
+      <node id="3717195622457727669" at="74,95,75,17" concept="0" />
+      <node id="3717195622457727669" at="75,17,76,22" concept="4" />
+      <node id="3717195622457727669" at="70,0,78,0" concept="6" trace="createDescriptorForInputField#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="3717195622457727669" at="44,44,45,35" />
+      <scope id="3717195622457727669" at="70,68,76,22">
+        <var name="b" id="3717195622457727669" />
+      </scope>
+      <scope id="3717195622457727669" at="70,0,78,0" />
+    </file>
+  </root>
+  <root nodeRef="r:ffc99632-bc0a-47d7-9dfa-a678412c0455(CookBook.structure)/3717195622457846719">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="3717195622457846719" at="15,0,16,0" concept="1" trace="props_OutputField" />
+      <node id="3717195622457846719" at="44,40,45,76" concept="3" />
+      <node id="3717195622457846719" at="45,76,46,45" concept="0" />
+      <node id="3717195622457846719" at="46,45,47,43" concept="0" />
+      <node id="3717195622457846719" at="48,9,49,33" concept="4" />
+      <node id="3717195622457846719" at="43,45,48,9" concept="2" />
+      <scope id="3717195622457846719" at="44,40,47,43">
+        <var name="cpb" id="3717195622457846719" />
+      </scope>
+      <scope id="3717195622457846719" at="43,45,49,33" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="3717195622457846719" at="15,0,16,0" concept="5" trace="OutputField" />
+      <node id="3717195622457846719" at="21,57,22,50" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="3717195622457846719" at="18,0,19,0" concept="1" trace="myConceptOutputField" />
+      <node id="3717195622457846719" at="48,45,49,36" concept="4" />
+      <node id="3717195622457846719" at="87,69,88,154" concept="3" />
+      <node id="3717195622457846719" at="88,154,89,34" concept="0" />
+      <node id="3717195622457846719" at="89,34,90,95" concept="0" />
+      <node id="3717195622457846719" at="90,95,91,17" concept="0" />
+      <node id="7638321130241736821" at="91,17,92,198" concept="0" />
+      <node id="3717195622457846719" at="92,198,93,22" concept="4" />
+      <node id="3717195622457846719" at="87,0,95,0" concept="6" trace="createDescriptorForOutputField#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="3717195622457846719" at="48,45,49,36" />
+      <scope id="3717195622457846719" at="87,69,93,22">
+        <var name="b" id="3717195622457846719" />
+      </scope>
+      <scope id="3717195622457846719" at="87,0,95,0" />
+    </file>
+  </root>
+  <root nodeRef="r:ffc99632-bc0a-47d7-9dfa-a678412c0455(CookBook.structure)/7638321130241823747">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="7638321130241823747" at="14,0,15,0" concept="1" trace="props_InputFieldRefrence" />
+      <node id="7638321130241823747" at="37,47,38,76" concept="3" />
+      <node id="7638321130241823747" at="38,76,39,139" concept="0" />
+      <node id="7638321130241823747" at="39,139,40,50" concept="0" />
+      <node id="7638321130241823747" at="41,9,42,40" concept="4" />
+      <node id="7638321130241823747" at="36,52,41,9" concept="2" />
+      <scope id="7638321130241823747" at="37,47,40,50">
+        <var name="cpb" id="7638321130241823747" />
+      </scope>
+      <scope id="7638321130241823747" at="36,52,42,40" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="7638321130241823747" at="14,0,15,0" concept="5" trace="InputFieldRefrence" />
+      <node id="7638321130241823747" at="20,49,21,57" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="7638321130241823747" at="17,0,18,0" concept="1" trace="myConceptInputFieldRefrence" />
+      <node id="7638321130241823747" at="46,52,47,43" concept="4" />
+      <node id="7638321130241823747" at="78,76,79,161" concept="3" />
+      <node id="7638321130241823747" at="79,161,80,34" concept="0" />
+      <node id="7638321130241823747" at="80,34,81,121" concept="0" />
+      <node id="7638321130241823747" at="81,121,82,95" concept="0" />
+      <node id="7638321130241823747" at="82,95,83,17" concept="0" />
+      <node id="7638321130241823774" at="83,17,84,169" concept="0" />
+      <node id="7638321130241823747" at="84,169,85,22" concept="4" />
+      <node id="7638321130241823747" at="78,0,87,0" concept="6" trace="createDescriptorForInputFieldRefrence#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="7638321130241823747" at="46,52,47,43" />
+      <scope id="7638321130241823747" at="78,76,85,22">
+        <var name="b" id="7638321130241823747" />
+      </scope>
+      <scope id="7638321130241823747" at="78,0,87,0" />
+    </file>
+  </root>
+</debug-info>
+

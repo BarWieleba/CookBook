@@ -1,0 +1,4 @@
+# Project exclude paths
+/languages/CookBook/classes_gen/
+/languages/CookBook/generator/classes_gen/
+/languages/CookBook/sandbox/classes_gen/

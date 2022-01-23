@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <uses language="l:2e1e7e62-debb-4c4b-bcca-55fb2d10f07a:CookBook" />
+  <uses module="d33d77f4-023c-4737-bb0d-a6a93582ea5b(CookBook.runtime)" kind="rt" />
+</dependenciesRoot>
+

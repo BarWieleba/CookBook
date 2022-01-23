@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/CookBook/CookBook.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/CookBook/runtime/CookBook.runtime.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/CookBook/sandbox/CookBook.sandbox.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
